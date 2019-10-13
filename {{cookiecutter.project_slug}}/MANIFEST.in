@@ -1,0 +1,2 @@
+include {{cookiecutter.project_slug}}/spiders/resources/*.json
+include {{cookiecutter.project_slug}}/spiders/resources/*.csv

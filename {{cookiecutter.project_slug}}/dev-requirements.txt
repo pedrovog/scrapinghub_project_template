@@ -1,0 +1,4 @@
+pip-tools
+shub
+scrapy==1.6
+twisted
